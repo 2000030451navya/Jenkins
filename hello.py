@@ -1,1 +1,1 @@
-print("hello idiot")
+print("Anneyong Bangtan")
